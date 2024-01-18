@@ -1,2 +1,5 @@
 # ATM-Management-System
-ATM Management System is a software solution designed to replicate essential functionalities of an Automated Teller Machine (ATM). This system aims to facilitate banking operations such as account creation, secure login authentication, balance inquiries, fund withdrawals, deposits, and PIN management. 
+The proposed ATM Management System is a software solution designed to replicate essential functionalities of an Automated Teller Machine (ATM). This system aims to facilitate banking operations such as account creation, secure login authentication, balance inquiries, fund withdrawals, deposits, and PIN management. Developed in C++, the system heavily employs file handling techniques to manage and
+store user account information securely.
+
+ATM Management System establishes a foundational solution for basic banking operations,delivering essential functionalities for account management and transactions. This project provides a platform for further expansion and refinement, aligning with industry standards for secure and efficient banking systems.This comprehensive proposal outlines the project's objectives, functional segments, potential improvements, and considerations for further development. Adjustments or additions can be made based on specific project requirements or desired enhancements.
